@@ -18,7 +18,7 @@ let XXXX = tap.none & hold.none in
 
     [ # Layer 1
         XXXX,     XXXX,     kc.UP,     kc.EQUAL,     kc.LBRC,       kc.RBRC,   kc.N7,   kc.N8,       kc.N9,       kc.KP_PLUS,
-        kc.LSHFT, kc.LEFT,  kc.DOWN,   kc.RIGHT,     kc.LBKT,       kc.RBKT,   kc.N4,   kc.N5,       kc.n6,       kc.KP_MINUS,
+        kc.lsft,  kc.LEFT,  kc.DOWN,   kc.RIGHT,     kc.LBKT,       kc.RBKT,   kc.N4,   kc.N5,       kc.n6,       kc.KP_MINUS,
         XXXX,     kc.DEL,   kc.PG_UP,  kc.CAPS,      kc.PG_DN,      kc.RPAR,   kc.N1,   kc.N2,       kc.N3,       kc.KP_MULTIPLY,
         kc.N1,    kc.TAB,          kc.SPC,                      kc.N4,              kc.N0,      kc.N6,
     ],
